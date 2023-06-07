@@ -1,0 +1,4 @@
+https://hub.docker.com/repository/docker/xhil/exame/general
+
+docker build <path_to_dockerfile> --tag <image_name>
+docker run <image_name>
